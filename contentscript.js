@@ -318,6 +318,7 @@ if ( !abort ) {
             'dogtime.com',
             'dotaoutpost.com',
             'download.cnet.com',
+            'easybib.com',
             'edmontonjournal.com',
             'edmontonsun.com',
             'edmunds.com',
